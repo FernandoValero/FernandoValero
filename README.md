@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Fernando Valero</h1>
-<h3 align="center">A passionate fullstack web developer from Argentina</h3>
+<h1 align="center">👋 ¡Hola! Soy Fernando Valero</h1>
+<h3 align="center">Desarrollador Fullstack con enfoque en backend</h3>
 
-- 👯 I’m looking to collaborate on [Godot Project]
-
-- 📫 
+<p align="center">
+  Soy desarrollador fullstack con enfoque principal en backend usando <strong>Spring Boot</strong> y <strong>Spring Cloud</strong>.<br><br>
+  He trabajado con tecnologías como <strong>Angular</strong>, <strong>Node.js (Express)</strong>, <strong>MongoDB</strong> y <strong>MySQL</strong>, creando APIs robustas y frontends responsivos.<br><br>
+  Uno de mis proyectos más destacados es un sistema modular para la gestión de inventario, ventas y reportes.<br><br>
+  Me apasionan los desafíos técnicos, aprendo rápido y siempre busco mejorar y aportar soluciones eficientes.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
